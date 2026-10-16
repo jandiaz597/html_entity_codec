@@ -1,6 +1,6 @@
 {
   "name": "html-entity-codec",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Encodes and decodes named and numeric HTML character entities per the HTML5 specification.",
   "type": "module",
   "main": "src/index.js",
